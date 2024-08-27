@@ -1,0 +1,8 @@
+name: Sidebar
+version: '${project.version}'
+main: com.oftx.sidebar.Sidebar
+api-version: '1.20'
+commands:
+  sidebar:
+    description: Toggle the sidebar on or off
+    usage: /sidebar
